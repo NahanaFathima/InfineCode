@@ -1,0 +1,201 @@
+applicant_name,age,family_income,family_members,employment_status,education_level,disability_status,eligibility_status
+Mohammed Ali,43,59435,1,Unemployed,Undergraduate,No,Eligible
+Kavya Menon,20,497556,7,Unemployed,Postgraduate,No,Eligible
+Sanjay Patel,36,225150,9,Student,Secondary,No,Not Eligible
+Rahul Das,37,390976,4,Self-Employed,No Education,No,Not Eligible
+Anitha Thomas,49,101293,4,Unemployed,Postgraduate,No,Eligible
+Mohammed Ali,24,128781,6,Student,Undergraduate,No,Eligible
+Deepak Nair,58,241475,3,Unemployed,Secondary,Yes,Eligible
+Rahul Das,50,210196,6,Employed,Postgraduate,No,Not Eligible
+Rahul Das,57,276507,7,Unemployed,Postgraduate,No,Eligible
+Fatima Banu,56,356063,3,Unemployed,Postgraduate,No,Eligible
+Anitha Thomas,35,289833,7,Self-Employed,Secondary,Yes,Eligible
+Arjun Menon,57,302377,3,Student,Secondary,No,Not Eligible
+Priya Nair,18,216319,2,Self-Employed,Primary,Yes,Eligible
+Meera Krishnan,28,171172,4,Self-Employed,Undergraduate,No,Not Eligible
+Lakshmi Devi,45,406902,8,Self-Employed,No Education,Yes,Eligible
+Priya Nair,42,368717,9,Self-Employed,Postgraduate,Yes,Eligible
+Ravi Kumar,40,109101,7,Self-Employed,Primary,No,Eligible
+Meera Krishnan,48,338790,1,Unemployed,No Education,No,Eligible
+Meera Krishnan,47,416329,3,Self-Employed,Primary,Yes,Eligible
+Manoj Tiwari,59,73049,9,Self-Employed,Secondary,No,Eligible
+Sneha Pillai,52,260677,1,Student,Postgraduate,Yes,Eligible
+Rekha Iyer,24,410260,9,Employed,No Education,Yes,Eligible
+Sanjay Patel,33,409523,8,Unemployed,No Education,Yes,Eligible
+Sanjay Patel,43,118385,1,Unemployed,No Education,Yes,Eligible
+Deepak Nair,19,176131,6,Unemployed,No Education,Yes,Eligible
+Meera Krishnan,18,483374,5,Self-Employed,No Education,No,Not Eligible
+Kavya Menon,29,246489,6,Self-Employed,Primary,Yes,Eligible
+Arjun Menon,22,73289,5,Self-Employed,Postgraduate,Yes,Eligible
+Suresh Babu,54,422370,6,Student,Secondary,No,Not Eligible
+Deepak Nair,49,412937,5,Employed,Secondary,Yes,Eligible
+Mohammed Ali,26,321967,5,Self-Employed,Secondary,No,Not Eligible
+Vijay Raj,58,241232,4,Employed,Secondary,No,Not Eligible
+Mohammed Ali,52,354119,3,Student,Primary,No,Not Eligible
+Pooja Singh,36,59540,3,Unemployed,Undergraduate,Yes,Eligible
+Fatima Banu,33,66364,4,Self-Employed,Postgraduate,Yes,Eligible
+Divya Nair,20,447827,9,Employed,No Education,Yes,Eligible
+Pooja Singh,37,77663,2,Employed,Undergraduate,No,Eligible
+Vijay Raj,41,101991,9,Self-Employed,Secondary,Yes,Eligible
+Priya Nair,50,238751,1,Unemployed,Undergraduate,No,Eligible
+Kavya Menon,41,416326,1,Unemployed,Postgraduate,Yes,Eligible
+Sanjay Patel,28,212049,5,Unemployed,No Education,No,Eligible
+Mohammed Ali,25,144704,6,Student,No Education,Yes,Eligible
+Meera Krishnan,53,99115,6,Employed,Postgraduate,Yes,Eligible
+Anitha Thomas,55,403151,3,Employed,Postgraduate,Yes,Eligible
+Sanjay Patel,57,269295,7,Employed,Secondary,No,Not Eligible
+Arjun Menon,37,241962,9,Student,No Education,No,Not Eligible
+Divya Nair,52,247459,8,Employed,Undergraduate,Yes,Eligible
+Manoj Tiwari,42,199143,6,Student,Primary,Yes,Eligible
+Fatima Banu,52,240347,8,Unemployed,Primary,No,Eligible
+Pooja Singh,42,61938,5,Self-Employed,Postgraduate,No,Eligible
+Anitha Thomas,46,478411,8,Employed,Secondary,No,Not Eligible
+Fatima Banu,35,403824,4,Employed,Primary,Yes,Eligible
+Priya Nair,35,54000,8,Unemployed,No Education,No,Eligible
+Lakshmi Devi,19,251660,2,Self-Employed,Postgraduate,Yes,Eligible
+Sneha Pillai,52,413186,5,Student,Undergraduate,No,Not Eligible
+Fatima Banu,33,405754,9,Self-Employed,Postgraduate,Yes,Eligible
+Pooja Singh,58,301492,4,Unemployed,Undergraduate,No,Eligible
+Meera Krishnan,53,415835,6,Unemployed,Postgraduate,No,Eligible
+Priya Nair,50,88304,1,Self-Employed,Postgraduate,No,Eligible
+Sneha Pillai,21,381593,9,Student,Postgraduate,No,Not Eligible
+Fatima Banu,50,132986,1,Student,Undergraduate,No,Eligible
+Divya Nair,31,201836,5,Employed,Undergraduate,Yes,Eligible
+Rekha Iyer,38,158940,4,Student,Postgraduate,No,Not Eligible
+Sanjay Patel,37,350638,3,Self-Employed,Primary,No,Not Eligible
+Anitha Thomas,25,315517,6,Unemployed,Secondary,No,Eligible
+Divya Nair,24,193233,2,Employed,Secondary,Yes,Eligible
+Anitha Thomas,20,147532,3,Employed,Secondary,No,Eligible
+Rekha Iyer,34,404802,5,Unemployed,Undergraduate,Yes,Eligible
+Arun Sharma,50,435777,9,Student,Undergraduate,No,Not Eligible
+Pooja Singh,29,150386,2,Unemployed,Primary,No,Eligible
+Sanjay Patel,39,77350,8,Student,Secondary,Yes,Eligible
+Arun Sharma,39,143008,2,Unemployed,Secondary,No,Eligible
+Vijay Raj,47,406441,5,Self-Employed,Postgraduate,Yes,Eligible
+Sanjay Patel,55,75351,7,Student,Undergraduate,Yes,Eligible
+Arun Sharma,55,138668,8,Self-Employed,Secondary,No,Eligible
+Ravi Kumar,25,164585,1,Employed,Primary,Yes,Eligible
+Mohammed Ali,44,458521,6,Unemployed,Primary,No,Eligible
+Vijay Raj,44,387497,1,Employed,Secondary,No,Not Eligible
+Ravi Kumar,51,257869,2,Employed,Undergraduate,Yes,Eligible
+Meera Krishnan,38,115953,1,Employed,Primary,Yes,Eligible
+Anitha Thomas,47,369602,5,Employed,Postgraduate,Yes,Eligible
+Rahul Das,50,332502,9,Unemployed,Primary,Yes,Eligible
+Deepak Nair,45,53267,6,Employed,No Education,No,Eligible
+Manoj Tiwari,50,132745,1,Unemployed,No Education,No,Eligible
+Anitha Thomas,22,401732,1,Unemployed,Undergraduate,Yes,Eligible
+Arjun Menon,36,350657,2,Self-Employed,Secondary,No,Not Eligible
+Arjun Menon,21,207164,9,Student,Undergraduate,No,Not Eligible
+Ravi Kumar,52,61338,3,Student,Undergraduate,No,Eligible
+Suresh Babu,34,181484,1,Unemployed,Undergraduate,No,Eligible
+Sneha Pillai,45,57543,5,Self-Employed,Undergraduate,Yes,Eligible
+Mohammed Ali,47,418035,7,Unemployed,Postgraduate,Yes,Eligible
+Vijay Raj,46,476712,6,Unemployed,Postgraduate,No,Eligible
+Mohammed Ali,23,110692,1,Unemployed,Primary,Yes,Eligible
+Vijay Raj,52,270156,5,Self-Employed,No Education,Yes,Eligible
+Anitha Thomas,58,273992,5,Student,Undergraduate,Yes,Eligible
+Meera Krishnan,54,356569,6,Self-Employed,Primary,No,Not Eligible
+Priya Nair,41,88756,3,Employed,No Education,No,Eligible
+Ravi Kumar,46,68888,5,Self-Employed,Secondary,No,Eligible
+Rekha Iyer,48,216807,7,Self-Employed,Postgraduate,Yes,Eligible
+Suresh Babu,52,359439,5,Self-Employed,No Education,No,Not Eligible
+Arjun Menon,50,164352,5,Self-Employed,Secondary,No,Not Eligible
+Meera Krishnan,38,395186,5,Student,No Education,Yes,Eligible
+Anitha Thomas,49,135999,3,Employed,Postgraduate,No,Eligible
+Arjun Menon,40,67955,1,Student,Postgraduate,No,Eligible
+Ravi Kumar,50,349985,5,Student,Primary,Yes,Eligible
+Arjun Menon,20,120640,9,Self-Employed,Undergraduate,Yes,Eligible
+Suresh Babu,35,246582,1,Unemployed,No Education,Yes,Eligible
+Sanjay Patel,42,478127,3,Unemployed,No Education,No,Eligible
+Divya Nair,59,269798,4,Student,Secondary,No,Not Eligible
+Arjun Menon,48,450573,1,Student,Postgraduate,No,Not Eligible
+Ravi Kumar,20,475695,1,Self-Employed,No Education,Yes,Eligible
+Suresh Babu,57,111476,8,Student,Postgraduate,Yes,Eligible
+Divya Nair,41,356955,2,Self-Employed,No Education,No,Not Eligible
+Mohammed Ali,49,217280,8,Unemployed,Primary,No,Eligible
+Vijay Raj,39,201222,7,Unemployed,Undergraduate,Yes,Eligible
+Sanjay Patel,40,121180,2,Employed,No Education,Yes,Eligible
+Sanjay Patel,19,224358,6,Unemployed,Postgraduate,Yes,Eligible
+Sneha Pillai,44,162856,6,Student,Primary,Yes,Eligible
+Arun Sharma,59,380594,3,Unemployed,No Education,No,Eligible
+Deepak Nair,19,464568,2,Self-Employed,Secondary,Yes,Eligible
+Mohammed Ali,43,236141,1,Unemployed,Undergraduate,No,Eligible
+Manoj Tiwari,34,424032,6,Employed,No Education,No,Not Eligible
+Kavya Menon,57,160448,5,Unemployed,Primary,No,Eligible
+Fatima Banu,50,64397,9,Self-Employed,Secondary,Yes,Eligible
+Suresh Babu,26,484771,1,Self-Employed,Primary,Yes,Eligible
+Mohammed Ali,56,228031,7,Student,Primary,Yes,Eligible
+Arun Sharma,46,443944,5,Unemployed,Secondary,Yes,Eligible
+Sanjay Patel,59,493733,5,Self-Employed,Primary,No,Not Eligible
+Rahul Das,43,169180,2,Employed,Secondary,Yes,Eligible
+Fatima Banu,52,116234,3,Student,No Education,Yes,Eligible
+Arun Sharma,42,89954,7,Employed,Secondary,No,Eligible
+Mohammed Ali,41,228352,6,Unemployed,Secondary,Yes,Eligible
+Deepak Nair,30,129459,2,Unemployed,Undergraduate,No,Eligible
+Priya Nair,24,459995,6,Unemployed,Secondary,No,Eligible
+Sneha Pillai,53,245004,2,Student,Secondary,No,Not Eligible
+Arun Sharma,37,467682,2,Self-Employed,No Education,No,Not Eligible
+Lakshmi Devi,18,480155,2,Student,Undergraduate,No,Not Eligible
+Meera Krishnan,25,250968,3,Employed,Postgraduate,No,Not Eligible
+Meera Krishnan,33,478486,2,Student,No Education,No,Not Eligible
+Kavya Menon,31,109163,4,Employed,No Education,No,Eligible
+Rahul Das,29,101934,9,Student,Postgraduate,Yes,Eligible
+Mohammed Ali,40,245967,6,Self-Employed,Secondary,Yes,Eligible
+Ravi Kumar,32,475523,1,Employed,Primary,Yes,Eligible
+Ravi Kumar,45,366242,8,Unemployed,Undergraduate,Yes,Eligible
+Kavya Menon,51,55486,7,Unemployed,Primary,No,Eligible
+Arun Sharma,19,189407,3,Student,Postgraduate,Yes,Eligible
+Vijay Raj,49,399044,1,Unemployed,No Education,No,Eligible
+Arjun Menon,40,176020,5,Employed,No Education,Yes,Eligible
+Mohammed Ali,39,152795,4,Unemployed,Undergraduate,Yes,Eligible
+Lakshmi Devi,42,270184,8,Self-Employed,No Education,Yes,Eligible
+Anitha Thomas,39,192202,1,Self-Employed,No Education,No,Not Eligible
+Vijay Raj,39,399652,1,Student,Undergraduate,Yes,Eligible
+Suresh Babu,59,287027,4,Employed,Undergraduate,No,Not Eligible
+Ravi Kumar,23,168324,8,Self-Employed,Postgraduate,No,Not Eligible
+Deepak Nair,32,372710,5,Self-Employed,No Education,Yes,Eligible
+Sneha Pillai,54,247775,2,Employed,No Education,Yes,Eligible
+Meera Krishnan,50,339336,6,Unemployed,Postgraduate,Yes,Eligible
+Sanjay Patel,25,313206,5,Unemployed,Secondary,No,Eligible
+Vijay Raj,22,134076,2,Student,Secondary,Yes,Eligible
+Kavya Menon,56,139780,3,Unemployed,Secondary,No,Eligible
+Manoj Tiwari,21,202617,9,Employed,Postgraduate,No,Not Eligible
+Manoj Tiwari,23,71689,7,Self-Employed,No Education,Yes,Eligible
+Kavya Menon,49,323318,7,Unemployed,Postgraduate,Yes,Eligible
+Meera Krishnan,47,400605,6,Student,Postgraduate,No,Not Eligible
+Mohammed Ali,52,438318,8,Unemployed,Secondary,No,Eligible
+Priya Nair,57,415177,4,Employed,Primary,No,Not Eligible
+Arjun Menon,33,59348,8,Student,No Education,Yes,Eligible
+Manoj Tiwari,30,466930,4,Unemployed,Secondary,No,Eligible
+Suresh Babu,59,88102,8,Student,Primary,Yes,Eligible
+Manoj Tiwari,47,124460,9,Employed,Primary,No,Eligible
+Manoj Tiwari,36,414778,3,Self-Employed,Undergraduate,No,Not Eligible
+Manoj Tiwari,34,139930,3,Employed,No Education,Yes,Eligible
+Priya Nair,36,56801,2,Employed,Primary,No,Eligible
+Priya Nair,45,153150,3,Employed,Secondary,Yes,Eligible
+Suresh Babu,43,253339,3,Employed,Undergraduate,Yes,Eligible
+Ravi Kumar,54,229208,5,Self-Employed,No Education,No,Not Eligible
+Ravi Kumar,43,204697,5,Self-Employed,Postgraduate,Yes,Eligible
+Deepak Nair,40,263945,2,Student,Secondary,Yes,Eligible
+Priya Nair,26,281915,6,Unemployed,Primary,No,Eligible
+Meera Krishnan,29,253664,5,Self-Employed,Primary,Yes,Eligible
+Lakshmi Devi,18,258124,6,Self-Employed,Secondary,Yes,Eligible
+Fatima Banu,18,487477,1,Unemployed,Primary,Yes,Eligible
+Rahul Das,51,51542,5,Self-Employed,Undergraduate,No,Eligible
+Manoj Tiwari,49,333821,9,Employed,No Education,Yes,Eligible
+Lakshmi Devi,42,227804,2,Employed,Undergraduate,No,Not Eligible
+Suresh Babu,57,231415,1,Unemployed,Primary,No,Eligible
+Kavya Menon,18,89081,9,Student,Postgraduate,Yes,Eligible
+Priya Nair,33,243928,9,Student,No Education,Yes,Eligible
+Lakshmi Devi,56,405249,9,Unemployed,No Education,Yes,Eligible
+Rahul Das,22,269930,6,Unemployed,Secondary,No,Eligible
+Rekha Iyer,39,331209,8,Employed,Secondary,Yes,Eligible
+Rekha Iyer,46,264532,1,Student,Postgraduate,Yes,Eligible
+Ravi Kumar,20,138092,4,Self-Employed,No Education,Yes,Eligible
+Vijay Raj,29,366837,1,Employed,Postgraduate,Yes,Eligible
+Lakshmi Devi,43,339106,8,Unemployed,Secondary,Yes,Eligible
+Rekha Iyer,33,78295,1,Student,Secondary,No,Eligible
+Arjun Menon,54,63807,3,Self-Employed,No Education,No,Eligible
+Kavya Menon,39,485564,4,Self-Employed,Undergraduate,Yes,Eligible
+Fatima Banu,46,207504,8,Employed,Primary,Yes,Eligible
+Deepak Nair,31,288067,6,Student,Secondary,Yes,Eligible
